@@ -4,3 +4,4 @@ Hello from Wanida P.
 Hello back from Prapaporn R.
 Test Test Test
 Hello Hello Hello There
+Hi Hi Hi How are you?
